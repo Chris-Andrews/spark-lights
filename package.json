@@ -1,0 +1,11 @@
+{
+  "name": "lights",
+  "version": "0.0.1",
+  "description": "Client, server, and spark core code for controlling LED lights via hardware button or web browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Andrews",
+  "license": "Not intended for use"
+}
